@@ -1,23 +1,23 @@
 {
-  "name": "gabrieladombrowski.com",
+  "name": "gabidombrowski.com",
   "version": "1.0.0",
   "description": "",
-  "main": "gabrieladombrowski.com.js",
+  "main": "gabidombrowski.com.js",
   "scripts": {
-    "start": "node gabrieladombrowski.com.js",
+    "start": "node gabidombrowski.com.js",
     "test": "mocha tests/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabidombrowski/gabrieladombrowski.com.git"
+    "url": "git+https://github.com/gabidombrowski/gabidombrowski.com.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gabidombrowski/gabrieladombrowski.com/issues"
+    "url": "https://github.com/gabidombrowski/gabidombrowski.com/issues"
   },
-  "homepage": "https://github.com/gabidombrowski/gabrieladombrowski.com#readme",
+  "homepage": "https://github.com/gabidombrowski/gabidombrowski.com#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.2.0",
     "express": "^4.16.3",

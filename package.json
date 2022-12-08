@@ -20,7 +20,7 @@
   "homepage": "https://github.com/gabidombrowski/gabidombrowski.com#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.2.0",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "mocha": "^5.2.0"
   }
 }
